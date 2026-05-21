@@ -1,0 +1,6 @@
+{
+  "name": "Morocco AI",
+  "description": "منصة ذكاء اصطناعي متكاملة لإنشاء فيديوهات لصناع المحتوى",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
